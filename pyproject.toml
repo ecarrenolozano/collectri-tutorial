@@ -1,10 +1,9 @@
 [tool.poetry]
-name = "biocypher-project-template"
+name = "collectri-pipeline"
 version = "0.5.43"
-description = "Template for creating a BioCypher-driven knowledge graph"
+description = "This is a pipeline to process the information from the CollecTRI dataset coming from CSV files"
 authors = [
-    "Sebastian Lobentanzer <sebastian.lobentanzer@gmail.com>",
-    "Andreas Maier <andreas.maier-1@uni-hamburg.de>",
+    "Edwin Carreño <edwin.carreno.lozano@gmail.com>",
 ]
 license = "MIT"
 readme = "README.md"
